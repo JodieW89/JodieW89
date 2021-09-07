@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JodieW89
 - 👀 I’m interested in all things web development, espeically Front-End!
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on all type of projects and frameworks
+- 💞️ I’m looking to collaborate on all types of projects and frameworks
 - 📫 How to reach me - jodiewatson@hotmail.co.uk
 
 <!---
